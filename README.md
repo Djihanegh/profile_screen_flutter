@@ -3,7 +3,7 @@
 All code resides in the /lib folder: there's no Android / iOS specific code needed.
 
 The final result looks like this :
-![alt text](https://github.com/[Djihanegh]/[profile_screen_flutter]/blob/[assets]/profile_screen_img.jpg?raw=true)
+![alt text](https://github.com/[Djihanegh]/[profile_screen_flutter]/[assets]/profile_screen_img.jpg?raw=true)
 
 
 
