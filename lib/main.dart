@@ -66,6 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Stack(
             children: <Widget>[
               Card(
+                  margin: EdgeInsets.all(0.0),
                   color: Colors.white,
                   elevation: 1.0,
                   shape: RoundedRectangleBorder(
